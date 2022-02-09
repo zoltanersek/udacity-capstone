@@ -22,6 +22,7 @@ Deployment to rinkeby:
 
 ### Contract addresses:
 SquareVerifier: 0xD26477Bf117Ca419e65D7D5f51582dFc68eb75c4
+
 SolnSquareVerifier: 0x84869c050E35B6100babd93959198F59dcEf142F
 
 https://rinkeby.etherscan.io/token/0x84869c050E35B6100babd93959198F59dcEf142F
